@@ -24,6 +24,15 @@ from PIL import Image
 from object_detection.utils import dataset_util
 from collections import namedtuple, OrderedDict
 
+import tensorflow.compat.v1 as tf 
+# Added for:
+'''
+Traceback (most recent call last):
+  File "generate_tfrecord.py", line 27, in <module>
+    flags = tf.app.flags
+AttributeError: module 'tensorflow' has no attribute 'app
+'''
+
 flags = tf.app.flags
 flags.DEFINE_string("csv_input", "", "Path to the CSV input")
 flags.DEFINE_string("output_path", "", "Path to output TFRecord")
