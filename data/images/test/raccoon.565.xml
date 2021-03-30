@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>raccoon.565.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\test\raccoon.565.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>457</xmin>
+			<ymin>233</ymin>
+			<xmax>576</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>mink.2991.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\test\mink.2991.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>minkish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>273</ymin>
+			<xmax>480</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>63</ymin>
+			<xmax>710</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

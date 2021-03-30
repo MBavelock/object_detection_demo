@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>kingfisher.75.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\train\kingfisher.75.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kingfisher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>132</ymin>
+			<xmax>406</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

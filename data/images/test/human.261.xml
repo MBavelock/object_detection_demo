@@ -1,0 +1,50 @@
+<annotation>
+	<folder>test</folder>
+	<filename>human.261.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\test\human.261.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human legs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>398</ymin>
+			<xmax>429</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>266</ymin>
+			<xmax>410</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>250</ymin>
+			<xmax>465</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+</annotation>

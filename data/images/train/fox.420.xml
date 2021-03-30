@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>fox.420.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\train\fox.420.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>14</ymin>
+			<xmax>689</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

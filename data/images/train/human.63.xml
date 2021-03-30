@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>human.63.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\train\human.63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human legs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>246</ymin>
+			<xmax>359</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>106</ymin>
+			<xmax>330</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>85</ymin>
+			<xmax>398</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

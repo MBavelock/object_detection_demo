@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>opossum.359.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\train\opossum.359.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>opossum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>209</ymin>
+			<xmax>148</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

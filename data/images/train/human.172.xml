@@ -1,0 +1,62 @@
+<annotation>
+	<folder>train</folder>
+	<filename>human.172.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\train\human.172.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human legs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>426</xmin>
+			<ymin>261</ymin>
+			<xmax>492</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>428</xmin>
+			<ymin>168</ymin>
+			<xmax>449</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>154</ymin>
+			<xmax>491</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human legs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>650</xmin>
+			<ymin>279</ymin>
+			<xmax>724</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

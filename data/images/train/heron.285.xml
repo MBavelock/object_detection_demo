@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>heron.285.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\train\heron.285.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>335</ymin>
+			<xmax>415</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

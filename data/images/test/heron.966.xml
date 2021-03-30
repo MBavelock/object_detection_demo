@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>heron.966.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\test\heron.966.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>280</ymin>
+			<xmax>398</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>opossum.951.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\test\opossum.951.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>opossum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>338</ymin>
+			<xmax>658</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

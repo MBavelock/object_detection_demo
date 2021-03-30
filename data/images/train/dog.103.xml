@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>dog.103.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\train\dog.103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>206</ymin>
+			<xmax>461</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

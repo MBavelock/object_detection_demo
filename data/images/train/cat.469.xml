@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cat.469.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\train\cat.469.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>125</ymin>
+			<xmax>467</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

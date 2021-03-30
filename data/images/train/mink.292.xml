@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>mink.292.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\train\mink.292.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>minkish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>123</ymin>
+			<xmax>633</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

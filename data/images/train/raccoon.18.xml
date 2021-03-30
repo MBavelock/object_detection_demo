@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>raccoon.18.jpg</filename>
+	<path>D:\object_detection_demo-master\data\images\train\raccoon.18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>325</ymin>
+			<xmax>726</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>
